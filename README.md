@@ -1,2 +1,3 @@
 # Hotel Data Analysis using MySQL
 This project focuses on analyzing hotel data using MySQL to uncover valuable insights. The dataset includes various aspects of hotel operations, such as bookings, customer demographics, revenue, and seasonal trends. By leveraging SQL queries, we perform in-depth analysis to identify key metrics like occupancy rates, average daily rates, customer preferences, and more. The results can be used to optimize hotel operations, improve customer experience, and drive business growth. This repository contains SQL scripts, sample data, and detailed analysis results.
+* this project serves as a hands-on example of how data can be structured
